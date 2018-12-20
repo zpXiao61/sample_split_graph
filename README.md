@@ -26,7 +26,7 @@ step3: <br>
 run "python run_all.py" <br>
 
 ## supplementary
-all scripts are under the "scipt/" folder. <br>
+all scripts are under the "script/" folder. <br>
 for each case: <br>
 >
 test_split.py will split the model in "model/xxx/yyy.pb" and place the splitted models into "model_parts/xxx/" <br>
